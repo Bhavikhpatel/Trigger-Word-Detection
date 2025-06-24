@@ -25,6 +25,7 @@ The implementation follows these key steps:
 
 ## 📁 Repository Structure
 
+<pre>
 .
 ├── audio_examples/       # Contains example audio files for testing
 ├── models/               # Stores the pre-trained model architecture and weights
@@ -37,6 +38,7 @@ The implementation follows these key steps:
 ├── tmp.wav               # Temporary file created during prediction
 ├── train.py              # Script for training the model
 └── train.wav             # An example of a synthesized training audio file
+</pre>
 
 ## 🛠️ How to Use
 
